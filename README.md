@@ -1,7 +1,5 @@
 Customer Retention Analytics: Strategic Report & Interactive Dashboard
 
-Show Image Show Image Show Image
-
 Final-week deliverable for a data analytics project. It turns analysis results into a strategic report, a presentation storyboard, and an interactive dashboard that non-technical stakeholders can explore.
 
 Business question
